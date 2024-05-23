@@ -51,7 +51,7 @@ def user_report(user: User, repos: dict) -> None:
         for repo_name, repo_url in repos.items():
             file.write(f"{repo_name}: {repo_url}\n")
 
-    # Print to console
+    
     print(f"Nome: {user.name}")
     print(f"Perfil: {user.html_url}")
     print(f"Número de repositórios públicos: {user.public_repos}")
@@ -63,13 +63,9 @@ def user_report(user: User, repos: dict) -> None:
 
 
 class TestMethods(unittest.TestCase):
-    """Classe de testes unitários."""
 
     def test_user_class_has_minimal_parameters(self):
-        """
-        Teste unitário relativo ao primeiro passo do desafio, esse cenário
-        deve ser mantido na sua resolução.
-        """
+        
         parameters = ['login', 'name', 'html_url', 'public_repos', 'followers', 'following']
         user = get_user('octocat')  # Use a sample GitHub username for testing
         for param in parameters:
@@ -86,7 +82,7 @@ class TestMethods(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    # Use o seu nome de usuário do GitHub para gerar o relatório
+    
     username = 'araujoalves'
     user = get_user(username)
     repos = get_user_repos(username)

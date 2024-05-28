@@ -1,0 +1,16 @@
+Nome: DANIEL DE ARAUJO ALVES
+Perfil: https://github.com/araujoalves
+Título: Test Automation Developer Analyst
+Número de repositórios públicos: 9
+Número de seguidores: 0
+Número de usuários seguidos: 1
+Repositórios:
+araujoalves: https://github.com/araujoalves/araujoalves
+Atividades-.java: https://github.com/araujoalves/Atividades-.java
+calculo-folha-de-pagamento: https://github.com/araujoalves/calculo-folha-de-pagamento
+CS50-programa-com-Python: https://github.com/araujoalves/CS50-programa-com-Python
+Descontos-folha-de-pagamento-.java-: https://github.com/araujoalves/Descontos-folha-de-pagamento-.java-
+Digite-sua-resposta: https://github.com/araujoalves/Digite-sua-resposta
+Formulario--html-css: https://github.com/araujoalves/Formulario--html-css
+github_user_report: https://github.com/araujoalves/github_user_report
+Polimorfismo: https://github.com/araujoalves/Polimorfismo
